@@ -21,6 +21,13 @@
 
 ----------
 
+## Next steps for this project:
+
+- [ ] Integrate new feature: Tokens transfer history
+- [ ] Connecting price data for fungible tokens (as well as displaying price charts)
+
+----------
+
 ## How to use / How to install extension:
 
 1. Download this repository (ZIP);
